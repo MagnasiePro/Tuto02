@@ -1,0 +1,6 @@
+module Pods_tuto02 {
+  umbrella header "Pods-tuto02-umbrella.h"
+
+  export *
+  module * { export * }
+}

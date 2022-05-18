@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/9460822/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/9460822/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tuto02.iml" filepath="$PROJECT_DIR$/.idea/modules/tuto02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/tuto02.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/tuto02.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1434337941/tuto02.react-native-geolocation-service.iml" filepath="$PROJECT_DIR$/.idea/modules/-1434337941/tuto02.react-native-geolocation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/349083258/tuto02.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/349083258/tuto02.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1504156780/tuto02.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1504156780/tuto02.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1400591236/tuto02.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1400591236/tuto02.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
