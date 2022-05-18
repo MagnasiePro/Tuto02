@@ -31,7 +31,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-  [GMSServices provideAPIKey:@"AIzaSyAde6RI3wa6HoR6fOyYz0iKsNkSLI3eDLs"]; // add this line using the api key obtained from Google Console
+  [GMSServices provideAPIKey:@"MY_SUPER_KEY"]; // add this line using the api key obtained from Google Console
   RCTAppSetupPrepareApp(application);
 
   RCTBridge *bridge = [[RCTBridge alloc] initWithDelegate:self launchOptions:launchOptions];
